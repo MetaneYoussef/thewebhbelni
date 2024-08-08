@@ -2,16 +2,16 @@ export default function Footer() {
         return (
             <div className="footer">
                 <a href="https://twitter.com/MtnYoussef">
-                    <img src="../Assets/Twitter.svg" alt="twitter" />
+                    <img src="images/Twitter.svg" alt="twitter" />
                 </a>
                 <a href="https://www.facebook.com/youssef.metane">
-                    <img src="../Assets/Facebook.svg" alt="Facebook" />
+                    <img src="images/Facebook.svg" alt="Facebook" />
                 </a>
                 <a href="https://www.instagram.com/metane_youcef/">
-                    <img src="../Assets/Instagram.svg" alt="Instagram" />
+                    <img src="images/Instagram.svg" alt="Instagram" />
                 </a>
                 <a href="https://www.instagram.com/metane_youcef/">
-                    <img src="../Assets/Github.svg" alt="Github" />
+                    <img src="images/Github.svg" alt="Github" />
                 </a>
         </div>
     )
